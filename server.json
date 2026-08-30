@@ -1,0 +1,25 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-09-29/server.schema.json",
+  "name": "com.listsignal/listsignal",
+  "description": "Live business intelligence for 16M+ online businesses: tech stacks, Shopify apps, revenue estimates, hiring signals with dates, contact data. Free tier 1,000 calls/month.",
+  "repository": {
+    "url": "https://github.com/giushansen/listsignal-mcp",
+    "source": "github"
+  },
+  "version": "1.0.0",
+  "websiteUrl": "https://listsignal.com/developers",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://listsignal.com/mcp",
+      "headers": [
+        {
+          "name": "Authorization",
+          "description": "Bearer ls_... API key from listsignal.com Settings (free tier: 1,000 calls/month)",
+          "isRequired": true,
+          "isSecret": true
+        }
+      ]
+    }
+  ]
+}
