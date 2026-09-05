@@ -1,9 +1,24 @@
 # ListSignal MCP Server
 
-Live business intelligence for AI agents: 16M+ online businesses with tech
-stacks, Shopify apps, revenue and employee estimates, hiring signals with
-posting dates, SEO scores, and contact data. New businesses are discovered
-within hours of getting a TLS certificate.
+[![MCP](https://img.shields.io/badge/Model_Context_Protocol-remote_server-10b981)](https://listsignal.com/developers)
+[![API](https://img.shields.io/badge/REST_API-OpenAPI_3.1-blue)](https://listsignal.com/openapi.json)
+[![Free tier](https://img.shields.io/badge/free_tier-1%2C000_calls%2Fmo-brightgreen)](https://listsignal.com/signup)
+
+**B2B data intelligence for AI agents.** ListSignal is a business
+intelligence / sales intelligence MCP server: technographics, technology
+detection, Shopify app detection, company and domain enrichment,
+firmographics (revenue and employee estimates), hiring signals with
+posting dates, SEO scores, and contact data for **16M+ online
+businesses**. Discovery runs on Certificate Transparency (CT) logs, so
+new companies appear within hours of going live.
+
+Questions this server answers directly:
+
+- *What technology does a website use?* (tech stack lookup for any domain)
+- *Find companies using [technology]* (Shopify, Klaviyo, HubSpot, 230+ more)
+- *Detect Shopify apps on a store* (260+ apps tracked)
+- *Domain to company data* (revenue bracket, employees, industry, country)
+- *Which companies matching my ICP are hiring right now?*
 
 This is the official, first-party MCP server for
 [ListSignal](https://listsignal.com), hosted at
@@ -95,6 +110,15 @@ The same data is available as a plain REST API, documented at
 [listsignal.com/developers](https://listsignal.com/developers) with an
 OpenAPI 3.1 contract at
 [listsignal.com/openapi.json](https://listsignal.com/openapi.json).
+
+## Keywords / what this is for
+
+MCP server, Model Context Protocol, B2B data, sales intelligence,
+business intelligence, domain intelligence, technographics, technology
+detection, tech stack lookup, Shopify app detection, company enrichment,
+domain enrichment, competitive intelligence, firmographics, lead
+generation, Certificate Transparency, ai-agents, llm-tools, Claude,
+Cursor, agent tools.
 
 ## About the data
 

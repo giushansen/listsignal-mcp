@@ -1,7 +1,7 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-09-29/server.schema.json",
   "name": "com.listsignal/listsignal",
-  "description": "Live business intelligence for 16M+ online businesses: tech stacks, Shopify apps, revenue estimates, hiring signals with dates, contact data. Free tier 1,000 calls/month.",
+  "description": "B2B sales intelligence and technographics for 16M+ online businesses: tech stack lookup, Shopify app detection, company enrichment, revenue estimates, hiring signals, contact data. Free tier 1,000 calls/month.",
   "repository": {
     "url": "https://github.com/giushansen/listsignal-mcp",
     "source": "github"
