@@ -64,6 +64,20 @@ claude mcp add --transport http listsignal https://listsignal.com/mcp \
   --header "Authorization: Bearer ls_YOUR_KEY"
 ```
 
+### Claude on the web (claude.ai)
+
+claude.ai's connector settings accept a URL only, no headers, so put the
+key in the URL:
+
+1. Settings → Connectors → **Add custom connector**
+2. Name: `ListSignal`
+3. URL: `https://listsignal.com/mcp/k/ls_YOUR_KEY`
+4. Leave the OAuth fields empty, click Add, then enable it in a chat via
+   the tools menu.
+
+Treat that URL like a password. If it leaks, revoke the key in Settings
+and create a new one.
+
 ### Cursor
 
 Settings → MCP → Add server, or `.cursor/mcp.json`:
