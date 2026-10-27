@@ -2,7 +2,7 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "com.listsignal/listsignal",
   "title": "ListSignal",
-  "description": "B2B sales intelligence: tech stack, Shopify apps, revenue, hiring, contacts and change signals for 25M+ firms; free counts",
+  "description": "B2B sales intelligence: tech stack, Shopify apps, revenue, hiring, contacts, change signals; free counts",
   "repository": {
     "url": "https://github.com/giushansen/listsignal-mcp",
     "source": "github"
