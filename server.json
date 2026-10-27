@@ -2,12 +2,12 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "com.listsignal/listsignal",
   "title": "ListSignal",
-  "description": "B2B sales intelligence: tech stack, Shopify apps, revenue, hiring and contacts for 25M+ firms",
+  "description": "B2B sales intelligence: tech stack, Shopify apps, revenue, hiring, contacts and change signals for 25M+ firms; free counts",
   "repository": {
     "url": "https://github.com/giushansen/listsignal-mcp",
     "source": "github"
   },
-  "version": "1.0.1",
+  "version": "1.1.0",
   "websiteUrl": "https://listsignal.com/developers",
   "remotes": [
     {
@@ -16,7 +16,7 @@
       "headers": [
         {
           "name": "Authorization",
-          "description": "Bearer ls_... API key from listsignal.com Settings (free tier: 1,000 calls/month)",
+          "description": "Bearer ls_... API key from listsignal.com Settings (free: 1,000 rows/month, counts free)",
           "isRequired": true,
           "isSecret": true
         }
