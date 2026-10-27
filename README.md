@@ -8,7 +8,7 @@
 intelligence / sales intelligence MCP server: technographics, technology
 detection, Shopify app detection, company and domain enrichment,
 firmographics (revenue and employee estimates), hiring signals with
-posting dates, SEO scores, and contact data for **16M+ online
+posting dates, SEO scores, and contact data for **10s of millions of online
 businesses**. Discovery runs on Certificate Transparency (CT) logs, so
 new companies appear within hours of going live.
 
